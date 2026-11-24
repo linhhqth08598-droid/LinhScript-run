@@ -1,0 +1,9 @@
+
+
+supabase.url=https://bkfswlzvkuhxosqslrxb.supabase.co
+supabase.publishable.key=sb_publishable_pwEFzmd1plTndHeotqc3pQ_sACx1rn9
+supabase.secret.key=sb_secret_zxFqp1RlZDKnHY0Vy3jfMw_Me8YwnbG
+supbase.jwks.url=https://bkfswlzvkuhxosqslrxb.supabase.co/auth/v1/.well-known/jwks.json
+supabase.name=Project
+supabase.password=Linh=2009@@123
+supabase.url.DuLieu=https://bkfswlzvkuhxosqslrxb.supabase.co/rest/v1/DuLieu
