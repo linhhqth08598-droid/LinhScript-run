@@ -1,0 +1,20 @@
+# ---- Database (DemoDB - SQL Server Express) ----
+db.type=sqlserver
+db.host=localhost\SQLEXPRESS
+# DB_PORT=1433
+db.name=DemoDB
+DB_USER=sa
+DB_PASSWORD=123
+DB_ENCRYPT=false
+DB_POOL_MAX=10
+DB_POOL_MIN=2
+DB_TIMEOUT_MS=15000
+
+# ---- Email ----
+MAIL_EMAIL=gearzonepc@gmail.com
+MAIL_PASSWORD=tgxnrmbhnlncsgva
+MAIL_NAME="GearZone Support"
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=465
+# Người nhận khi chạy test_henv.hql (bỏ dòng này thì gửi cho chính MAIL_EMAIL)
+MAIL_TEST_TO=linhhqth08598@gmail.com
